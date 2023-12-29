@@ -1,7 +1,7 @@
   <p align="center">  
   <a href="https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg">
     <img alt="secktor docs" height="300" src="[https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg](https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg)">
-    <h1 align="center"> Dragon-MD-V4 </h1>
+    <h1 align="center">SOUL KILLER OFC BOT </h1>
   </a>
 </p>  
 <p align="center">
