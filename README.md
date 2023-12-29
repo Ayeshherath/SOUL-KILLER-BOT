@@ -5,7 +5,7 @@
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir" target="_blank">
+  <a aria-label="Join our chats" href="(https://chat.whatsapp.com/D4eytSR8uFxG1DkOpnlFyP)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir](https://wa.me/94775341543?text=.menu)" target="_blank">
@@ -16,10 +16,10 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{TechwithAmee1}/count.svg" alt="TechwithAmee1 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{TechwithAmee1}/count.svg" alt="soul-killer :: Visitor's Count" /></p>
 
 <p align="center">
-   <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Dragon+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+   <a href="https://github.com/soul-killer"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SOUL+KILLER+BOT;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 ---
