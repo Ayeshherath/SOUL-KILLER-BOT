@@ -1,6 +1,6 @@
   <p align="center">  
-  <a href="https://i.ibb.co/wRgDy33/20221104-225109.png">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/wRgDy33/20221104-225109.png">
+  <a href="https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg">
+    <img alt="secktor docs" height="300" src="[https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg](https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg)">
     <h1 align="center"> Dragon-MD-V4 </h1>
   </a>
 </p>  
@@ -8,7 +8,7 @@
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir](https://wa.me/6282116863163?text=.menu)" target="_blank">
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir](https://wa.me/94775341543?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
